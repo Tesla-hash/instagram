@@ -66,7 +66,7 @@ npm install github:dilame/instagram-private-api
 
 If you find this library useful for you, you can support it by donating any amount
 
-BTC: 1Dqnz9QuswAvD3t7Jsw7LhwprR6HAWprW6
+BTC: 1AAfzptfq9CibJfm92zqofuK2d1eBfiWeJ
 
 # Examples
 
